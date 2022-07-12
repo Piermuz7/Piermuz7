@@ -1,8 +1,8 @@
 ### Hi there 👋
 I am Piermichele Rosati. You can call me Pié.
 
-![Pié's github stats](https://github-readme-stats.vercel.app/api?username=Piermuz7&count_private=true&hide=issues&theme=synthwave)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Piermuz7&layout=compact&theme=synthwave)
+![Pié's github stats](https://github-readme-stats.vercel.app/api?username=Piermuz7&count_private=true&hide=issues&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Piermuz7&layout=compact&theme=midnight-purple)
 
 
 <!--
