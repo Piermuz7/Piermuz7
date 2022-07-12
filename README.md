@@ -1,8 +1,8 @@
 ### Hi there 👋
 I am Piermichele Rosati. You can call me Pié.
 
-![Pié's github stats](https://github-readme-stats.vercel.app/api?username=tzutalin&count_private=true&hide=issues)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tzutalin&layout=compact)
+![Pié's github stats](https://github-readme-stats.vercel.app/api?username=Piermuz7&count_private=true&hide=issues)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Piermuz7&layout=compact)
 
 
 <!--
