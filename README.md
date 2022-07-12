@@ -1,4 +1,9 @@
 ### Hi there 👋
+I am Piermichele Rosati. You can call me Pié.
+
+![Pié's github stats](https://github-readme-stats.vercel.app/api?username=tzutalin&count_private=true&hide=issues)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tzutalin&layout=compact)
+
 
 <!--
 **Piermuz7/Piermuz7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
