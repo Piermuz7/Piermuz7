@@ -12,7 +12,7 @@ I'm a Computer Science student 💻 at University of Camerino, Unicam LM-18
 <a href="https://www.linkedin.com/in/piermichele-rosati-93713b202"><img align="left" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw=w240-h480" width="21px"/></a>
 <a href="https://instagram.com/frescomeunarosa"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" width="21px"/></a>
 <a href="https://it-it.facebook.com/piermichele.rosati/"><img align="left" src="https://newdentistblog.ada.org/wp-content/uploads/2015/03/FB-f-Logo__blue_512-300x300.png" width="21px"/></a>
-<br>
+<br><br>
 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 ## 💼 Technical Skills
