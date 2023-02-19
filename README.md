@@ -5,7 +5,8 @@ Hi there, I'm Piermichele Rosati but you can call me Pié.</a> 👋
 <h2 align="center">
 I'm a Computer Science student 💻 at University of Camerino, Unicam LM-18
 </h2> 
-<div align="center">I am passionate about Computer Science and problem solving. I love learning new things every day and constantly improving myself.</div> 
+<div align="center">I am passionate about Computer Science and problem solving. I love learning new things every day and constantly improving myself.</div>
+
 ## 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/piermichele-rosati-93713b202"><img align="left" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw=w240-h480" width="21px"/></a>
