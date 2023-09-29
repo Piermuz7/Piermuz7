@@ -3,7 +3,7 @@ Hi there, I'm Piermichele Rosati but you can call me Pié.</a> 👋
 </h3>
 
 <h2 align="center">
-I'm a Computer Science student 💻 at University of Camerino, Unicam LM-18 🇮🇹
+I'm a Computer Science student 💻 at Unicam, University of Camerino 🇮🇹
 </h2> 
 <h2 align="center">
 I'm actually studying Business Information Systems 📚for the Double Degree programm at FHNW, University of Applied Sciences and Arts Northwestern Switzerland 🇨🇭
