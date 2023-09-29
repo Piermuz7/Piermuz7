@@ -6,7 +6,7 @@ Hi there, I'm Piermichele Rosati but you can call me Pié.</a> 👋
 I'm a Computer Science student 💻 at University of Camerino, Unicam LM-18 🇮🇹
 </h2> 
 <h2 align="center">
-I'm currently studying Business Information Systems 📚for the Double Degree programm at FHNW, University of Applied Sciences and Arts Northwestern Switzerland 🇨🇭
+I'm actually studying Business Information Systems 📚for the Double Degree programm at FHNW, University of Applied Sciences and Arts Northwestern Switzerland 🇨🇭
 </h2>   
 <div align="center">I am passionate about Computer Science and problem solving. I love learning new things every day and constantly improving myself.</div>
 
