@@ -9,7 +9,7 @@
 
 - 🤖🇮🇹 I'm studying Computer Science at Unicam [University of Camerino](https://computerscience.unicam.it)
 
-- 📚🇨🇭 I'm studying Business Information Systmes at FHNW [University of Applied Sciences Northwestern Switzerland](https://www.fhnw.ch/en/degree-programmes/business/msc-bis)
+- 📚🇨🇭 I'm studying Business Information Systems at FHNW [University of Applied Sciences Northwestern Switzerland](https://www.fhnw.ch/en/degree-programmes/business/msc-bis)
 
 - 📫 How to reach me **piermichele.rosati@gmail.com**
 
