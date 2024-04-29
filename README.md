@@ -1,51 +1,29 @@
-<h3 align="center">
-Hi there, I'm Piermichele Rosati but you can call me Pié.</a> 👋
-</h3>
+<h1 align="center">Hi 👋, I'm Piermichele</h1>
+<h3 align="center">👨🏻‍💻 A Double Degree student in Computer Science and Business Information Systems.</h3>
 
-<h2 align="center">
-I'm a Computer Science student 💻 at Unicam, University of Camerino 🇮🇹
-</h2> 
-<h2 align="center">
-I'm actually studying Business Information Systems 📚for the Double Degree programm at FHNW, University of Applied Sciences and Arts Northwestern Switzerland 🇨🇭
-</h2>   
-<div align="center">I am passionate about Computer Science and problem solving. I love learning new things every day and constantly improving myself.</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=piermuz7&label=Profile%20views&color=0e75b6&style=flat" alt="piermuz7" /> </p>
 
-## 🤝 Connect with me:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piermuz7" alt="piermuz7" /></a> </p>
 
-<a href="https://www.linkedin.com/in/piermichele-rosati-93713b202"><img align="left" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw=w240-h480" width="21px"/></a>
-<a href="https://instagram.com/frescomeunarosa"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" width="21px"/></a>
-<a href="https://it-it.facebook.com/piermichele.rosati/"><img align="left" src="https://newdentistblog.ada.org/wp-content/uploads/2015/03/FB-f-Logo__blue_512-300x300.png" width="21px"/></a>
-<br><br>
-💬 If you have any question/feedback, please do not hesitate to reach out to me!
+- 🌱 I’m currently learning **Artificial Intelligence, Data Science...**
 
-## 💼 Technical Skills
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,c,java,maven,postman" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=spring,html,css,bootstrap,angular" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=discord,vscode,idea,latex" />
+- 🤖🇮🇹 I'm studying Computer Science at Unicam [University of Camerino](https://computerscience.unicam.it)
+
+- 📚🇨🇭 I'm studying Business Information Systmes at FHNW [University of Applied Sciences Northwestern Switzerland](https://www.fhnw.ch/en/degree-programmes/business/msc-bis)
+
+- 📫 How to reach me **piermichele.rosati@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/piermichele-rosati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piermichele-rosati" height="30" width="40" /></a>
+<a href="https://instagram.com/frescomeunarosa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="frescomeunarosa" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
-## 📈 GitHub Stats 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=piermuz7&show_icons=true&locale=en&layout=compact" alt="piermuz7" /></p>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Piermuz7&layout=compact&theme=midnight-purple)](https://github.com/Piermuz7)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=piermuz7&show_icons=true&locale=en" alt="piermuz7" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Piermuz7&layout=compact&theme=midnight-purple)](https://github.com/Piermuz7)
-
-
-<!--
-**Piermuz7/Piermuz7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piermuz7&" alt="piermuz7" /></p>
