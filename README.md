@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Piermichele</h1>
-<h3 align="center">👨🏻‍💻 A Double Degree student in Computer Science and Business Information Systems.</h3>
+<h3 align="center">👨🏻‍💻 A Double Degree graduate in Computer Science and Business Information Systems.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piermuz7" alt="piermuz7" /></a> </p>
 
