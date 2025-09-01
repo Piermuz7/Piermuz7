@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Piermichele</h1>
-<h3 align="center">👨🏻‍💻 A Double Degree graduate in Computer Science and Business Information Systems.</h3>
+<h3 align="center">👨🏻‍💻 Research Assistant | Artificial Intelligence & Knowledge Representation</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piermuz7" alt="piermuz7" /></a> </p>
 
-- 🌱 I’m currently learning **Artificial Intelligence, Data Science...**
-
-- 🤖🇮🇹🎓 Computer Science at Unicam [University of Camerino](https://computerscience.unicam.it)
-
-- 📚🇨🇭🎓 Business Information Systems at FHNW [University of Applied Sciences Northwestern Switzerland](https://www.fhnw.ch/en/degree-programmes/business/msc-bis)
-
-- 📫 How to reach me **piermichele.rosati@gmail.com**
+- 🔬 I’m currently working as a **Research Assistant at FHNW (University of Applied Sciences and Arts Northwestern Switzerland)**  
+- 🌱 I’m learning and exploring **Artificial Intelligence, Knowledge Graphs, and Data Science**  
+- 🎓 Double Master’s Degree in:  
+  - 🇮🇹 **Computer Science** at [University of Camerino](https://computerscience.unicam.it)  
+  - 🇨🇭 **Business Information Systems** at [FHNW](https://www.fhnw.ch/en/degree-programmes/business/msc-bis)  
+- 📫 Reach me at **piermichele.rosati@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
