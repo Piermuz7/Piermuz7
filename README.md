@@ -1,6 +1,21 @@
 <h1 align="center">Hi 👋, I'm Piermichele</h1>
 <h3 align="center">👨🏻‍💻 Research Assistant | Artificial Intelligence & Knowledge Representation</h3>
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piermuz7" alt="piermuz7" /></a> </p>
 
 - 🔬 I’m currently working as a **Research Assistant at FHNW (University of Applied Sciences and Arts Northwestern Switzerland)**  
