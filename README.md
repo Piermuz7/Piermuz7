@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Piermichele</h1>
-<h3 align="center">👨🏻‍💻 Research Assistant | Artificial Intelligence & Knowledge Representation</h3>
+<h3 align="center">👨🏻‍💻 Business AI Engineer at Axians in Switzerland</h3>
 
 <picture>
   <source
@@ -18,8 +18,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piermuz7" alt="piermuz7" /></a> </p>
 
-- 🔬 I’m currently working as a **Research Assistant at FHNW (University of Applied Sciences and Arts Northwestern Switzerland)**  
-- 🌱 I’m learning and exploring **Artificial Intelligence, Knowledge Graphs, and Data Science**  
+- 🔬 I’m currently working as a **Business AI Engineer at Axians in Switzerland)**  
+- 🌱 I’m working, learning and exploring **Hybrid Artificial Intelligence, GenAI, Symbolic AI, Data Science and more**  
 - 🎓 Double Master’s Degree in:  
   - 🇮🇹 **Computer Science** at [University of Camerino](https://computerscience.unicam.it)  
   - 🇨🇭 **Business Information Systems** at [FHNW](https://www.fhnw.ch/en/degree-programmes/business/msc-bis)  
